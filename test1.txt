@@ -1,0 +1,3 @@
+Branching is a very important concept in Git!!!
+
+It helps you make changes on your own on a software/file system without disrupting the functionalities, it's like you get a copy and you can do whatever you want with it haha
